@@ -1,16 +1,20 @@
-# farhan2002_music
+# Music Player
+- Built in Flutter.
 
-A new Flutter project.
+ ## Important Widgets and Tools
+ - Audioplayer plugin
+ - Stateful widget
+ - Slider
+ - Rows and Columns
+ - Bottom NavigationBar
+ 
+ ## Description
+ A simple Music player that can play songs that are stored in it(for now). Buttons and functionality includes next,previous, pause and play.
+ Also Includes a Bottom navigation bar which help to navigate to the playlist screen to choose songs(Not implemented yet)
+ ------------------
+ 
+ ## Demonstration
+ 
 
-## Getting Started
+https://user-images.githubusercontent.com/109536970/233307048-e930fdeb-cbca-423d-a292-9f747799b689.mp4
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
